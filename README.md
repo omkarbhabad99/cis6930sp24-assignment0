@@ -14,7 +14,8 @@ This project presents an innovative approach to automating the extraction and an
 6. Execute the script by running `python main.py --incidents URL`, replacing URL with the actual link to the Norman Police Department's PDF report you wish to analyze.
 
 ## How to Run
-Video
+Video 
+![alt text](video.gif)
 
 ## Functions
 #### main.py 
