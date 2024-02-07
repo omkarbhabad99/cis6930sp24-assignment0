@@ -1,5 +1,3 @@
-Python Docs | https://python.org/docs | Provided essential reference for built-in functions and error handling techniques.
-
-PyMuPDF GitHub | https://github.com/pymupdf/PyMuPDF | Offered insights into PDF extraction nuances and library capabilities.
-
-SQLite Database Integration with Python | https://stackoverflow.com/questions/211501/using-sqlite-in-a-python-program | Delve into discussions on using SQLite in Python, relevant for the createdb and populatedb functions.
+1. Python Docs | https://python.org/docs | Provided essential reference for built-in functions and error handling techniques.
+2. PyMuPDF GitHub | https://github.com/pymupdf/PyMuPDF | Offered insights into PDF extraction nuances and library capabilities.
+3. SQLite Database Integration with Python | https://stackoverflow.com/questions/211501/using-sqlite-in-a-python-program | Delve into discussions on using SQLite in Python, relevant for the createdb and populatedb functions.
