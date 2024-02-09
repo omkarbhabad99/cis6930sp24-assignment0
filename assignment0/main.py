@@ -107,14 +107,9 @@ def status(db):
                       GROUP BY nature 
                       ORDER BY count DESC, nature;''')  # Execute a SQL command to aggregate incident data by nature
     answer = cursor.fetchall()
-    empty_count = 0
     for nature, count in answer:
-        if nature:
-            print(f"{nature}|{count}")
-        else:
-            empty_count += count
-    if empty_count != 0:
-        print(f"|{empty_count}")
+        print(f"{nature}|{count}")
+        
 
 def main(url):
     """
